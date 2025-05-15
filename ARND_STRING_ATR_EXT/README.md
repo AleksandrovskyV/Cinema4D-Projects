@@ -15,5 +15,5 @@ Key Features
 
 To set it up:  
 Create a new object
-Go to User Data > Add User Data > Load Preset (ARND_STRING_ATR) > OK
+Go to User Data > Add User Data > Load Preset (ARND_STRING_ATR) > OK  
 Copy the yellow Xpresso tag to your object
