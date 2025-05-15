@@ -1,19 +1,45 @@
-# ARND_STRING_ATR_EXT_1.c4d
+# 🎛️ ARND_STRING_ATR_EXT_1.c4d
 
-Extend workflow with Arnold String Attribute // Based from [this method](https://www.youtube.com/watch?v=EAzoIx2vrm0)
+🔧 **Extended Workflow for Arnold String Attribute in Cinema 4D**  
+_Based on [this method](https://www.youtube.com/watch?v=EAzoIx2vrm0)_
+
 ![preview](../!ALL-PREVIEW/Arnold_String-Path_Randomizer_Selector.gif)
 
-Created to automate workflows with Substance Painter (which is why specific texture pass names are used).
+This setup automates texture path assignment for **Arnold** in **Cinema 4D**, designed to streamline workflows with **Substance Painter** and batch texture assets.
 
-Key Features  
-🎲 Randomizes Arnold textures from a selected folder  
-🎯 Allows manual selection of a specific Arnold texture from the folder  
+---
 
-📝 Notes    
-* Texture filenames must be numbered sequentially — use Adobe Bridge or similar tools for batch renaming
-* Your custom mesh objects must contain the required User Data, included as a preset in the project
+### ✨ Key Features
+- 🎲 Randomizes Arnold textures from a selected folder  
+- 🎯 Allows manual selection of a specific texture via index  
+- 🧠 Uses String-type User Data for dynamic path control  
+- 🧩 Clean Xpresso-based logic, easy to extend
 
-To set it up:  
-Create a new object
-Go to User Data > Add User Data > Load Preset (ARND_STRING_ATR) > OK  
-Copy the yellow Xpresso tag to your object
+---
+
+### 🛠 How to Set Up
+1. Create a new object  
+2. Go to:  
+   `User Data > Add User Data > Load Preset (ARND_STRING_ATR) > OK`  
+3. Copy the **yellow Xpresso tag** from the provided example object  
+4. Make sure your textures are named numerically (e.g. `BaseColor_01.jpg`, `BaseColor_02.jpg`)
+
+Tip: Use **Adobe Bridge** or similar tools for batch renaming.
+
+---
+
+### 🗂 Example Use Cases
+- Random texture assignment for multiple clones or assets  
+- Quick material variations without duplicating shaders  
+- Ideal for look-dev and asset iteration workflows
+
+---
+
+### 🏷 Tags
+`cinema-4d` `c4dtoa` `arnold` `xpresso` `user-data` `string-attribute` `texture-randomizer`  
+`substance-painter` `workflow-tools` `shader-automation` `cg-tools` `aleksandrovsky` `gpt-assisted`
+
+---
+
+> Assembled by [AleksandrovskyV](https://github.com/AleksandrovskyV), with assistance from GPT.  
+> Feel free to fork, break, or improve this setup 🔧
