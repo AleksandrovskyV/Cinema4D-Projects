@@ -14,7 +14,7 @@ Ready-to-use `.c4d` project in zip with texture setup
 ---
 
 ### ✨ Key Features
-- 🎲 Randomizes Arnold textures from a selected folder  
+- 🎲 Random textures from a selected folder for Arnold Render   
 - 🎯 Allows manual selection of a specific texture via index  
 - 🧠 Uses String-type User Data for dynamic path control  
 - 🧩 Clean Xpresso-based logic, easy to extend
@@ -33,14 +33,15 @@ Tip: Use **Adobe Bridge** or similar tools for batch renaming.
 ---
 
 ### 🗂 Example Use Cases
-- Random texture assignment for multiple clones or assets  
+- Random texture assignment for multiple clones or assets / meshes 
 - Quick material variations without duplicating shaders  
 - Ideal for look-dev and asset iteration workflows
 
 ---
 
 ### 🏷 Tags
-`cinema-4d` `c4dtoa` `arnold` `xpresso` `user-data` `string-attribute` `texture-randomizer` `user_data_string`   
+`cinema-4d` `c4dtoa` `arnold` `xpresso` `user-data` `string-attribute` `texture-randomizer` `user_data_string`  
+`Mutli Shader Arnold` `user_data_string random` `Random Textures from Folder in Arnold Shader`   
 `substance-painter` `workflow-tools` `shader-automation` `cg-tools` `aleksandrovsky` `gpt-assisted`
 
 ---
