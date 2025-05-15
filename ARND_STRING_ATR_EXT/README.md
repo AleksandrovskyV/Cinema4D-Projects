@@ -7,6 +7,8 @@ _Based on [this method](https://www.youtube.com/watch?v=EAzoIx2vrm0)_
 
 This setup automates texture path assignment for **Arnold** in **Cinema 4D**, designed to streamline workflows with **Substance Painter** and batch texture assets.
 
+📦 [Download ZIP](https://github.com/AleksandrovskyV/Cinema4D-Projects/blob/main/!ZIP_ARHIVES/ARND_STRING_ATR_EXT_V2.zip?raw=true)
+
 ---
 
 ### ✨ Key Features
