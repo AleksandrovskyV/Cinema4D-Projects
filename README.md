@@ -13,5 +13,3 @@ Hey dudes. W*lcome
 
 - 🎲 Randomizes Arnold textures from a selected folder  
 - 🎯 Allows manual texture selection  
-- 🧠 Built to work with Substance Painter texture passes  
-- 📦 Includes `.c4d` project, preview GIF, and setup instructions  
