@@ -14,7 +14,7 @@ Ready-to-use `.c4d` project in zip with texture setup
 ---
 
 ### ✨ Key Features
-- 🎲 Random textures from a selected folder for Arnold Render   
+- 🎲 Random textures from a selected folder (Arnold Renderer)   
 - 🎯 Allows manual selection of a specific texture via index  
 - 🧠 Uses String-type User Data for dynamic path control  
 - 🧩 Clean Xpresso-based logic, easy to extend
