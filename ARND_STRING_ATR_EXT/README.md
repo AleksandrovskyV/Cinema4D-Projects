@@ -36,7 +36,7 @@ Tip: Use **Adobe Bridge** or similar tools for batch renaming.
 ---
 
 ### 🏷 Tags
-`cinema-4d` `c4dtoa` `arnold` `xpresso` `user-data` `string-attribute` `texture-randomizer`  
+`cinema-4d` `c4dtoa` `arnold` `xpresso` `user-data` `string-attribute` `texture-randomizer` `user_data_string`   
 `substance-painter` `workflow-tools` `shader-automation` `cg-tools` `aleksandrovsky` `gpt-assisted`
 
 ---
