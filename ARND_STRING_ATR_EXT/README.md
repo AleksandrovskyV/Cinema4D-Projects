@@ -41,7 +41,7 @@ Tip: Use **Adobe Bridge** or similar tools for batch renaming.
 
 ### 🏷 Tags
 `cinema-4d` `c4dtoa` `arnold` `xpresso` `user-data` `string-attribute` `texture-randomizer` `user_data_string`  
-`Mutli Shader Arnold` `user_data_string random` `Random Textures from Folder in Arnold Shader`   
+`multi-shader-arnold` `user_data_string-random` `random-textures-from-folder-in-arnold-shader`   
 `substance-painter` `workflow-tools` `shader-automation` `cg-tools` `aleksandrovsky` `gpt-assisted`
 
 ---
