@@ -1,5 +1,17 @@
-# Cinema4D-Projects
+# 🎬 Cinema4D-Projects
 
-ARND_STRING_ATR_EXT_1.c4d  
-// Extend workflow with Arnold String Attribute // Based from [this method](https://www.youtube.com/watch?v=EAzoIx2vrm0)
-![preview](!ALL-PREVIEW/Arnold_String-Path_Randomizer_Selector.gif)
+Добро пожаловать в набор утилит и сетапов для ускорения работы в Cinema 4D.
+
+---
+
+## 🔹 [ARND_STRING_ATR_EXT](https://github.com/AleksandrovskyV/Cinema4D-Projects/tree/main/ARND_STRING_ATR_EXT)
+
+> Extend workflow with Arnold String Attribute  
+> _Based on [this method](https://www.youtube.com/watch?v=EAzoIx2vrm0)_
+
+![preview](./!ALL-PREVIEW/Arnold_String-Path_Randomizer_Selector.gif)
+
+- 🎲 Randomizes Arnold textures from a selected folder  
+- 🎯 Allows manual texture selection  
+- 🧠 Built to work with Substance Painter texture passes  
+- 📦 Includes `.c4d` project, preview GIF, and setup instructions  
