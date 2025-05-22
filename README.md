@@ -24,7 +24,7 @@ Hey dudes. W*lcome [1]
 
 ## 🔹 [CAM_MLinkScript / R20+](https://github.com/AleksandrovskyV/Cinema4D-Projects/blob/main/SCRIPTS_FOLDER/CAM_MLinkScript.py)  
 
-> Quickly duplicates the active camera to the top level.
+> Quickly duplicates the active camera to the top level.  
 > Adds a custom Xpresso setup with an Extend parameter that increases the render area while preserving the camera's focal length.
 
 ![preview](./!ALL-PREVIEW/Camera_Morph_Link_with_Extend-Region_Value.gif)
