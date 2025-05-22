@@ -29,6 +29,6 @@ Hey dudes. W*lcome [1]
 
 ![preview](./!ALL-PREVIEW/Camera_Morph_Link_with_Extend-Region_Value.gif)
 
-
-- 🎲 
-- 🎯  
+- 🎯  Help when working with nested or heavy rigs, especially for baking or using scripts that require a standalone camera.
+- 🎲  Extended render setting with Calculated Sensor Size - useful for expanding the frame in post-production (e.g., in After Effects ).
+- 🎲  Fast Delete
