@@ -37,8 +37,7 @@ Hey dudes. W*lcome [1]
 
 ### 🏷 Tags
 
-`cinema-4d` `c4d` `cinema-4d-script` `xpresso` `python` `expand-render-area`  
-`camera-morph` `one-click-tools` `cg-tools` `extend-render-area`  `gpt-assisted`
-`negative-render-region`
+`cinema-4d` `c4d` `cinema-4d-script` `xpresso` `python` `expand-render-area` `camera-morph`  
+`one-click-tools` `cg-tools` `extend-render-area`  `gpt-assisted`  `negative-render-region`  
 
 <!-- SEO: cinema4d script camera morph xpresso python render region sensor size after effects aleksandrovsky -->
