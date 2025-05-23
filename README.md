@@ -34,3 +34,11 @@ Hey dudes. W*lcome [1]
 - 🗑 One-click remove the generated camera, Xpresso tag, and render settings.
 
 > *Additional note: by creating your own alpha-channel mask you can effectively “patch” the render in post. With the standard renderer, you achieve this by projecting a material that carries an alpha channel from the camera onto your scene. It’s a clever workaround—though I’m really hoping the Maxon team will one day build in a true “Negative Render Region” feature! :)*
+
+### 🏷 Tags
+
+`cinema-4d` `c4d` `cinema-4d-script` `xpresso` `python` `expand-render-area`  
+`camera-morph` `one-click-tools` `cg-tools` `extend-render-area`  `gpt-assisted`
+`negative-render-region`
+
+<!-- SEO: cinema4d script camera morph xpresso python render region sensor size after effects aleksandrovsky -->
